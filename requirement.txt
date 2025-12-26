@@ -1,8 +1,13 @@
 
+#fastapi
+#uvicorn[standard]
+#ultralytics
+#python-dotenv
+#requests
+#openai
 fastapi
-uvicorn[standard]
-ultralytics
+uvicorn
 python-dotenv
-requests
+ultralytics
 openai
 
